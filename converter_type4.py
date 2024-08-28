@@ -36,6 +36,3 @@ if __name__=='__main__':
 
     pdf_convert = PDFCONVERTER(user_input_url, filename)
     pdf_convert.pdf_converter()
-
-# /home/lucifer/Desktop/traning/front end/Bootstrap/Task8.html
-#  /home/lucifer/Downloads/corona-free-dark-bootstrap-admin-template-1.0.0/template/index.html
