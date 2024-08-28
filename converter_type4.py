@@ -1,5 +1,5 @@
 from playwright.sync_api import sync_playwright
-import pdfkit
+# import pdfkit
 import os
 
 class PDFCONVERTER:
